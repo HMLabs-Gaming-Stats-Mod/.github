@@ -15,7 +15,7 @@ HMLabs Gaming Stats is a collection of Minecraft projects focused on creating mo
 
 You can find HMLabs Gaming Stats Mod on the following platforms:
 
-* [GitHub](https://github.com/HMLabs-Gaming-Stats-Mods)
+* [GitHub](https://github.com/HMLabs-Gaming-Stats-Mod)
 
 More platforms will follow.
 
