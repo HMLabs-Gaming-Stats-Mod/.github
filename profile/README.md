@@ -31,5 +31,6 @@ For questions, suggestions, bug reports or other inquiries, please use the appro
 
 ---
 
+<sub>A [HMLabs Gaming](https://gaming.hmlabs.eu) Project.</sub>  
 <sub>A [HMLabs](https://hmlabs.eu) Project.</sub>  
 <sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
