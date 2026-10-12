@@ -2,28 +2,23 @@
 
 Minecraft Stats-Mod by Henry Meyer.
 
-HMLabs Gaming Stats is a collection of Minecraft projects focused on creating mods, plugins, modpacks and resource packs. The goal is to build reliable, well-designed and enjoyable projects for the Minecraft community.
+HMLabs Gaming Stats Mod is a Minecraft mod that sends selected statistics to a server. These statistics can be accessed via an API. This project should not be used in a production environment at this time. It is still in an early pre-beta phase.
 
 ## Repositories
 
-* Stats Mod
-* Stats Server
-* Stats Dashboard
-* Stats Docs
+- [Stats Client](https://github.com/HMLabs-Gaming-Stats-Mod/stats-client)
+- [Stats Server](https://github.com/HMLabs-Gaming-Stats-Mod/stats-server)
+- [Stats Dashboard](https://github.com/HMLabs-Gaming-Stats-Mod/stats-dashboard)
+- [Stats Docs](https://github.com/HMLabs-Gaming-Stats-Mod/stats-docs)
 
 ## Platforms
 
 You can find HMLabs Gaming Stats Mod on the following platforms:
 
+* [Website](https://stats.gaming.hmlabs.eu)
 * [GitHub](https://github.com/HMLabs-Gaming-Stats-Mod)
 
 More platforms will follow.
-
-## Development
-
-Most projects are developed and maintained independently by Henry Meyer.
-
-Source code is available on GitHub where applicable. Individual projects may have their own licenses, requirements and contribution guidelines. Please check the respective repository for more information.
 
 ## Contact
 
@@ -32,5 +27,4 @@ For questions, suggestions, bug reports or other inquiries, please use the appro
 ---
 
 <sub>A [HMLabs Gaming](https://gaming.hmlabs.eu) Project.</sub>  
-<sub>A [HMLabs](https://hmlabs.eu) Project.</sub>  
 <sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
